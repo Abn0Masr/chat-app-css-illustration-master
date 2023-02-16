@@ -160,6 +160,7 @@ main .container .mobile .app .chat .chat-area {
 }
 main .container .mobile .app .chat .chat-area input {
   padding-left: 25px;
+  padding-right: 50px;
   width: calc(7.75cm - 2.5rem);
   height: 40px;
   border-radius: 50px;
