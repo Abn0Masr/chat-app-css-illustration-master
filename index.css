@@ -194,6 +194,7 @@ main .container .mobile .app .chat .btn::before {
   height: 30px;
   border-radius: 50%;
   background: hsl(271deg, 36%, 24%);
+  cursor: pointer;
 }
 main .container .mobile .app .chat .message-area {
   position: relative;
